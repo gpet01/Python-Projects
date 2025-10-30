@@ -23,7 +23,7 @@ while game_is_on:
     car_manager.create_car()
     car_manager.move_car()
 
-    #Detect with a car
+    #Detect collision with a car
     for car in car_manager.all_cars:
         if car.distance(player) < 20:
             scoreboard.game_over()
