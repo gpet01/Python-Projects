@@ -39,12 +39,13 @@
 ## 💾 Data Storage
 
 Οι κωδικοί αποθηκεύονται τοπικά στο αρχείο data.json με την εξής δομή:
-{
-  "example.com": {
-    "email": "user@example.com",
-    "password": "S3cuR3P@ss!",
+```bash
+  {
+    "example.com": {
+      "email": "user@example.com",
+      "password": "S3cuR3P@ss!",
+    }
   }
-}
 
 Τα δεδομένα δεν είναι κρυπτογραφημένα. Για προσωπική χρήση ή δοκιμή.
 
@@ -56,6 +57,7 @@
    ```bash
   git clone https://github.com/<your-username>/<repo-name>.git
   cd <repo-name>
+```
   
 3) Βεβαιώσου ότι έχεις την εικόνα logo.png στον ίδιο φάκελο με το script.
 4) Τρέξε το Πρόγραμμα:
