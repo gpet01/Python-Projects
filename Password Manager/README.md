@@ -56,9 +56,9 @@
    ```bash
   git clone https://github.com/<your-username>/<repo-name>.git
   cd <repo-name>
+  
 3) Βεβαιώσου ότι έχεις την εικόνα logo.png στον ίδιο φάκελο με το script.
 4) Τρέξε το Πρόγραμμα:
-   ```bash
   python main.py
 
 ---
