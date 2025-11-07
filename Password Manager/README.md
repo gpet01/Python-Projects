@@ -58,8 +58,9 @@
   cd <repo-name>
 2) Βεβαιώσου ότι έχεις την εικόνα logo.png στον ίδιο φάκελο με το script.
 3) Τρέξε το Πρόγραμμα:
-  ```bash
-  python main.py
+```bash
+python main.py
+
 
 ---
 
