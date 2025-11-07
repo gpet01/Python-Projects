@@ -29,6 +29,7 @@
 Για να τρέξει το πρόγραμμα, χρειάζεσαι:
 - Python 3.x  
 - Εγκατεστημένα τα παρακάτω modules:
+  ```bash
   pip install pyperclip
   
 Οι βιβλιοθήκες tkinter, json, και random είναι ενσωματωμένες στην Python.
