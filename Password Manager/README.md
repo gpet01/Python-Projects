@@ -39,12 +39,12 @@
 ## 💾 Data Storage
 
 Οι κωδικοί αποθηκεύονται τοπικά στο αρχείο data.json με την εξής δομή:
-{
-  "example.com": {
-    "email": "user@example.com",
-    "password": "S3cuR3P@ss!"
-  }
-}
+{\n
+  "example.com": { \n
+    "email": "user@example.com", \n
+    "password": "S3cuR3P@ss!"\n
+  \n}
+\n}
 Τα δεδομένα δεν είναι κρυπτογραφημένα. Για προσωπική χρήση ή δοκιμή.
 
 ---
@@ -57,8 +57,8 @@
   cd <repo-name>
 2) Βεβαιώσου ότι έχεις την εικόνα logo.png στον ίδιο φάκελο με το script.
 3) Τρέξε το Πρόγραμμα
-```bash
-  python main.py
+  ```bash
+    python main.py
 
 ---
 
