@@ -33,3 +33,15 @@
   pip install pyperclip
   
 Οι βιβλιοθήκες tkinter, json, και random είναι ενσωματωμένες στην Python.
+
+--
+
+## 💾 Data Storage
+
+Οι κωδικοί αποθηκεύονται τοπικά στο αρχείο data.json με την εξής δομή:
+{
+  "example.com": {
+    "email": "user@example.com",
+    "password": "S3cuR3P@ss!"
+  }
+}
