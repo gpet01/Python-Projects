@@ -42,6 +42,3 @@ while len(guessed_states) < 50:
         t.write(answer_state)
 
 screen.exitonclick()
-#if answer_state is one of the states in all the states of the 50_states.csv
-    #if they got it write:
-        #Create a turtle to write the name of the state it its x , y
