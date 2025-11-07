@@ -54,8 +54,8 @@
 
 1) Κάνε clone το repository:
 ```bash
-  git clone https://github.com/<your-username>/<repo-name>.git
-  cd <repo-name>
+git clone https://github.com/<your-username>/<repo-name>.git
+cd <repo-name>
 2) Βεβαιώσου ότι έχεις την εικόνα logo.png στον ίδιο φάκελο με το script.
 3) Τρέξε το Πρόγραμμα:
 ```bash
