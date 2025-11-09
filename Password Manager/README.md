@@ -74,7 +74,6 @@
 | `generate_password()` | Δημιουργεί και αντιγράφει έναν τυχαίο, ασφαλή κωδικό        |
 | `save()`              | Αποθηκεύει το website, email και password σε αρχείο JSON    |
 | `find_password()`     | Εμφανίζει αποθηκευμένα credentials για συγκεκριμένο website |
-| `UI setup`            | Δημιουργεί και τοποθετεί όλα τα widgets του Tkinter GUI     |
 
 ---
 
